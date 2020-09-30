@@ -3,7 +3,7 @@ logoType = "short" # long, short
 description = "A simple tech blog"
 custom_css = []
 custom_js = []
-useFaviconGenerator = false # https://www.favicon-generator.org/
+useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
