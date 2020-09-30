@@ -1,5 +1,6 @@
 logoText = "ACKR-Tech"
 logoType = "short" # long, short
+logo = false # Logo that appears in the site navigation bar.
 description = "A simple tech blog"
 custom_css = []
 custom_js = []
