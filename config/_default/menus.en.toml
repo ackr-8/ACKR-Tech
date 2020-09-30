@@ -1,0 +1,17 @@
+[[main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "posts"
+  weight = 1
+  
+[[main]]
+  identifier = "archive"
+  name = "Archive"
+  url = "archive"
+  weight = 2
+
+#[[main]]
+#  identifier = "showcase"
+# name = "Showcase"
+#  url = "showcase"
+# weight = 3
