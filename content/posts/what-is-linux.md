@@ -13,9 +13,9 @@ categories:
 - linux
 series:
 - Linux
-image: images/linux/ubuntu.png
-image: images/linux/fedora.png
-image: images/linux/lm.png
+image: images/linux/ubuntu.webp
+image: images/linux/fedora.webp
+image: images/linux/lm.webp
 ---
 
 # What is Linux ?
@@ -36,8 +36,8 @@ Yes, as Linux is open-source the source code is always being checked by develope
 ### A few screenshots of Linux Distros :
 
 - Ubuntu
-![Ubuntu](/images/linux/ubuntu.jpg)
+  ![Ubuntu](/images/linux/ubuntu.webp)
 - Fedora
-![Fedora](/images/linux/fedora.jpg)
+  ![Fedora](/images/linux/fedora.webp)
 - Linux Mint
-![Linux Mint](/images/linux/lm.png)
+  ![Linux Mint](/images/linux/lm.webp)
