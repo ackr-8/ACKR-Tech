@@ -1,7 +1,7 @@
 ---
 title: What is Linux ?
 date: 2020-08-04T12:00:06+09:00
-description:
+description: Linux explained.
 draft: false
 hideToc: false
 enableToc: true
